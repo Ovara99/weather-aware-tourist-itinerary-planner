@@ -294,35 +294,3 @@ University of Westminster
 This repository is provided for academic and educational purposes.
 
 ```
-
----
-
-## Add a Demo Thumbnail
-
-Create a folder:
-
-```
-docs/
-```
-
-Save a screenshot from your demo as:
-
-```
-demo_thumbnail.png
-```
-
-GitHub will display this image, and clicking it will open your YouTube demo.
-
----
-
-## Add Your Demo Video
-
-I recommend uploading the video to **YouTube** as an **Unlisted** video and replacing:
-
-```
-https://youtu.be/YOUR_VIDEO_LINK
-```
-
-with your actual URL. This avoids committing large video files to the repository while making the demo easy for reviewers to watch.
-
-This structure is well suited for an MSc AI project repository and gives examiners or recruiters a clear overview of your work.

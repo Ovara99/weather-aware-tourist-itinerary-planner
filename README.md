@@ -23,7 +23,7 @@ The project demonstrates how Artificial Intelligence can improve tourism plannin
 ## Demo Video
 
 🎥 **Watch the project demonstration**
-
+https://youtu.be/uem6X_zR3H0
 
 
 Or watch directly:

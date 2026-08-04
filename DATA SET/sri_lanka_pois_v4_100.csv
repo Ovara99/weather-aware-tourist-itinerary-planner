@@ -1,0 +1,106 @@
+poi_id,name,city,latitude,longitude,tourism_category,opening_time,closing_time,visit_duration_minutes,popularity_score,indoor_outdoor
+SL001,Sigiriya Rock Fortress,Sigiriya,7.957,80.7603,outdoor_cultural,07:00,17:30,180,0.98,outdoor
+SL002,Pidurangala Rock,Sigiriya,7.9652,80.7611,outdoor_nature,05:00,18:00,150,0.87,outdoor
+SL003,Sigiriya Museum,Sigiriya,7.953,80.758,indoor_cultural,08:00,17:00,60,0.72,indoor
+SL004,Dambulla Cave Temple,Dambulla,7.8567,80.6492,indoor_cultural,07:00,19:00,120,0.92,mixed
+SL005,Polonnaruwa Ancient City,Polonnaruwa,7.9403,81.0188,outdoor_cultural,07:00,18:00,210,0.94,outdoor
+SL006,Anuradhapura Sacred City,Anuradhapura,8.3114,80.4037,outdoor_cultural,06:30,18:00,210,0.93,outdoor
+SL007,Ruwanwelisaya Stupa,Anuradhapura,8.3467,80.3958,outdoor_cultural,05:00,21:00,60,0.88,outdoor
+SL008,Mihintale,Mihintale,8.3542,80.5064,outdoor_cultural,06:00,18:00,120,0.83,outdoor
+SL009,Minneriya National Park,Habarana,8.036,80.903,outdoor_nature,06:00,18:00,240,0.91,outdoor
+SL010,Kaudulla National Park,Habarana,8.1333,80.9833,outdoor_nature,06:00,18:00,210,0.85,outdoor
+SL011,Ritigala Monastery,Habarana,8.1167,80.6167,outdoor_cultural,07:00,17:00,120,0.78,outdoor
+SL012,Habarana Eco Lodge,Habarana,8.035,80.75,accommodation,00:00,23:59,0,0.8,mixed
+SL013,Temple of the Sacred Tooth Relic,Kandy,7.2936,80.6413,indoor_cultural,05:30,20:00,120,0.98,indoor
+SL014,Royal Botanic Gardens Peradeniya,Kandy,7.2719,80.5957,outdoor_nature,07:30,18:00,180,0.93,outdoor
+SL015,Kandy National Museum,Kandy,7.2946,80.6423,indoor_cultural,09:00,17:00,90,0.75,indoor
+SL016,Udawattakele Forest Reserve,Kandy,7.3035,80.6455,outdoor_nature,07:00,18:00,150,0.8,outdoor
+SL017,Kandy Lake,Kandy,7.292,80.6422,outdoor_nature,05:00,21:00,60,0.84,outdoor
+SL018,Ceylon Tea Museum,Kandy,7.269,80.633,indoor_cultural,08:30,16:00,90,0.77,indoor
+SL019,Kandy City Centre,Kandy,7.2927,80.6377,indoor_shopping,09:00,21:00,120,0.72,indoor
+SL020,World Buddhist Museum,Kandy,7.2941,80.6428,indoor_cultural,08:00,17:00,90,0.73,indoor
+SL021,Kandyan Cultural Centre,Kandy,7.2894,80.645,indoor_entertainment,16:00,19:00,90,0.79,indoor
+SL022,Ambuluwawa Tower,Kandy,7.2,80.53,outdoor_nature,08:00,17:00,120,0.76,outdoor
+SL023,Pinnawala Elephant Orphanage,Kandy,7.2989,80.3897,outdoor_nature,08:30,17:30,120,0.86,outdoor
+SL024,Slightly Chilled Lounge Bar,Kandy,7.2932,80.64,indoor_food,11:00,23:00,90,0.74,indoor
+SL025,The Empire Cafe Kandy,Kandy,7.293,80.639,indoor_food,07:30,22:00,60,0.75,indoor
+SL026,Earl's Regency Hotel,Kandy,7.275,80.628,accommodation,00:00,23:59,0,0.85,mixed
+SL027,Colombo National Museum,Colombo,6.9106,79.8611,indoor_cultural,09:00,17:00,150,0.91,indoor
+SL028,Gangaramaya Temple,Colombo,6.9166,79.8562,indoor_cultural,05:30,22:00,90,0.9,mixed
+SL029,Galle Face Green,Colombo,6.9271,79.8447,outdoor_nature,05:00,23:00,90,0.88,outdoor
+SL030,Dutch Hospital Shopping Precinct,Colombo,6.9347,79.843,indoor_shopping,10:00,23:00,120,0.84,mixed
+SL031,Independence Memorial Hall,Colombo,6.9036,79.8681,outdoor_cultural,06:00,22:00,75,0.82,outdoor
+SL032,One Galle Face Mall,Colombo,6.925,79.844,indoor_shopping,10:00,22:00,150,0.78,indoor
+SL033,Viharamahadevi Park,Colombo,6.9169,79.8612,outdoor_nature,06:00,20:00,60,0.74,outdoor
+SL034,Seema Malaka Temple,Colombo,6.9147,79.8506,indoor_cultural,06:00,20:00,45,0.8,mixed
+SL035,Pettah Market,Colombo,6.9375,79.85,indoor_shopping,08:00,19:00,90,0.7,mixed
+SL036,Ministry of Crab,Colombo,6.935,79.844,indoor_food,11:30,23:00,90,0.89,indoor
+SL037,Cafe Kumbuk,Colombo,6.888,79.856,indoor_food,08:00,22:00,60,0.78,indoor
+SL038,Lotus Tower,Colombo,6.9339,79.85,indoor_entertainment,10:00,22:00,90,0.75,indoor
+SL039,Cinnamon Grand Colombo,Colombo,6.918,79.849,accommodation,00:00,23:59,0,0.87,indoor
+SL040,Mount Lavinia Beach,Colombo,6.8333,79.8667,outdoor_nature,05:30,20:00,120,0.81,outdoor
+SL041,Galle Fort,Galle,6.026,80.217,outdoor_cultural,06:00,22:00,180,0.97,outdoor
+SL042,National Maritime Museum,Galle,6.0265,80.218,indoor_cultural,09:00,17:00,90,0.74,indoor
+SL043,Galle Lighthouse,Galle,6.0243,80.2178,outdoor_cultural,06:00,19:00,45,0.79,outdoor
+SL044,Unawatuna Beach,Unawatuna,6.0097,80.2494,outdoor_nature,05:30,19:00,180,0.91,outdoor
+SL045,Japanese Peace Pagoda,Unawatuna,6.0189,80.2395,outdoor_cultural,06:00,18:00,75,0.8,outdoor
+SL046,Hikkaduwa Beach,Hikkaduwa,6.1391,80.1015,outdoor_nature,05:30,19:00,180,0.85,outdoor
+SL047,Hikkaduwa Coral Sanctuary,Hikkaduwa,6.137,80.099,outdoor_nature,07:00,17:00,120,0.8,outdoor
+SL048,Weligama Bay,Weligama,5.9739,80.4283,outdoor_nature,05:30,19:00,150,0.83,outdoor
+SL049,Snake Island Weligama,Weligama,5.97,80.43,outdoor_nature,06:00,18:00,90,0.75,outdoor
+SL050,Mirissa Beach,Mirissa,5.9483,80.4716,outdoor_nature,05:30,19:00,180,0.92,outdoor
+SL051,Mirissa Whale Watching Harbour,Mirissa,5.945,80.46,outdoor_nature,06:00,12:00,240,0.89,outdoor
+SL052,Handunugoda Tea Estate,Galle,6.0333,80.2833,indoor_cultural,09:00,17:00,90,0.76,mixed
+SL053,Tangalle Beach,Tangalle,6.0233,80.7967,outdoor_nature,05:30,19:00,150,0.84,outdoor
+SL054,Dutch Fort Matara,Matara,5.9485,80.5353,outdoor_cultural,06:00,19:00,60,0.73,outdoor
+SL055,Fort Printers Hotel,Galle,6.027,80.216,accommodation,00:00,23:59,0,0.86,mixed
+SL056,Poonies Kitchen Unawatuna,Unawatuna,6.01,80.248,indoor_food,08:00,22:00,60,0.77,indoor
+SL057,Nine Arches Bridge,Ella,6.8768,81.0608,outdoor_cultural,05:30,18:00,90,0.93,outdoor
+SL058,Little Adam's Peak,Ella,6.8667,81.0466,outdoor_nature,05:00,18:00,150,0.9,outdoor
+SL059,Ravana Falls,Ella,6.8414,81.0542,outdoor_nature,06:00,18:00,60,0.84,outdoor
+SL060,Ella Rock,Ella,6.858,81.043,outdoor_nature,05:00,18:00,210,0.87,outdoor
+SL061,Cafe Chill Ella,Ella,6.871,81.046,indoor_food,08:00,22:00,60,0.79,indoor
+SL062,98 Acres Resort,Ella,6.865,81.048,accommodation,00:00,23:59,0,0.88,mixed
+SL063,Horton Plains National Park,Nuwara Eliya,6.8021,80.8072,outdoor_nature,06:00,16:00,300,0.97,outdoor
+SL064,Hakgala Botanic Gardens,Nuwara Eliya,6.9271,80.8216,outdoor_nature,07:30,17:00,150,0.82,outdoor
+SL065,Victoria Park,Nuwara Eliya,6.9694,80.7665,outdoor_nature,07:00,18:00,90,0.78,outdoor
+SL066,Gregory Lake,Nuwara Eliya,6.9497,80.7891,outdoor_nature,06:00,20:00,120,0.83,outdoor
+SL067,Pedro Tea Estate,Nuwara Eliya,6.9667,80.7667,indoor_cultural,08:00,17:00,90,0.76,mixed
+SL068,Grand Hotel Nuwara Eliya,Nuwara Eliya,6.97,80.769,accommodation,00:00,23:59,0,0.84,mixed
+SL069,Lipton's Seat,Haputale,6.7333,81.05,outdoor_nature,05:30,17:00,150,0.85,outdoor
+SL070,Diyaluma Falls,Haputale,6.7275,81.0331,outdoor_nature,06:00,18:00,150,0.86,outdoor
+SL071,Adam's Peak (Sri Pada),Nallathanniya,6.8096,80.4994,outdoor_cultural,02:00,12:00,360,0.92,outdoor
+SL072,Bomburu Ella Falls,Nuwara Eliya,6.9667,80.7833,outdoor_nature,07:00,17:00,60,0.74,outdoor
+SL073,Pigeon Island,Trincomalee,8.7186,81.1975,outdoor_nature,07:00,17:00,180,0.9,outdoor
+SL074,Koneswaram Temple,Trincomalee,8.5811,81.2336,outdoor_cultural,06:00,20:00,75,0.85,outdoor
+SL075,Nilaveli Beach,Nilaveli,8.6833,81.1833,outdoor_nature,05:30,19:00,180,0.87,outdoor
+SL076,Marble Beach Trincomalee,Trincomalee,8.65,81.1833,outdoor_nature,06:00,18:00,120,0.78,outdoor
+SL077,Arugam Bay Beach,Arugam Bay,6.84,81.836,outdoor_nature,05:30,19:00,180,0.89,outdoor
+SL078,Kumana National Park,Arugam Bay,6.6833,81.6667,outdoor_nature,06:00,17:00,210,0.8,outdoor
+SL079,Trinco Blu Resort,Trincomalee,8.59,81.22,accommodation,00:00,23:59,0,0.83,mixed
+SL080,Batticaloa Dutch Fort,Batticaloa,7.7167,81.7,outdoor_cultural,06:00,18:00,60,0.7,outdoor
+SL081,Bentota Beach,Bentota,6.426,79.9955,outdoor_nature,05:30,19:00,150,0.85,outdoor
+SL082,Brief Garden,Bentota,6.4,80.1167,outdoor_nature,08:30,17:00,90,0.76,outdoor
+SL083,Madu River Boat Safari,Balapitiya,6.2833,80.05,outdoor_nature,07:00,17:00,120,0.82,outdoor
+SL084,Kosgoda Turtle Hatchery,Kosgoda,6.2333,80.0167,outdoor_nature,08:00,18:00,60,0.74,outdoor
+SL085,Negombo Beach,Negombo,7.2083,79.8358,outdoor_nature,05:30,20:00,150,0.8,outdoor
+SL086,Negombo Fish Market,Negombo,7.2167,79.8333,outdoor_cultural,05:00,10:00,60,0.72,outdoor
+SL087,Kalpitiya Dolphin Watching,Kalpitiya,8.2333,79.7667,outdoor_nature,06:00,12:00,210,0.83,outdoor
+SL088,Jetwing Beach Negombo,Negombo,7.21,79.838,accommodation,00:00,23:59,0,0.82,mixed
+SL089,Wilpattu National Park,Wilpattu,8.45,80.05,outdoor_nature,06:00,18:00,240,0.86,outdoor
+SL090,Yala National Park,Tissamaharama,6.3667,81.5167,outdoor_nature,06:00,18:00,300,0.98,outdoor
+SL091,Kataragama Temple,Kataragama,6.4139,81.3325,outdoor_cultural,05:00,21:00,90,0.84,mixed
+SL092,Udawalawe National Park,Udawalawe,6.44,80.8983,outdoor_nature,06:00,18:00,210,0.87,outdoor
+SL093,Elephant Transit Home,Udawalawe,6.45,80.8833,outdoor_nature,09:00,17:00,90,0.79,outdoor
+SL094,Bundala National Park,Hambantota,6.2,81.2333,outdoor_nature,06:00,18:00,180,0.75,outdoor
+SL095,Sinharaja Forest Reserve,Deniyaya,6.4,80.5,outdoor_nature,06:30,17:00,240,0.88,outdoor
+SL096,Cinnamon Wild Yala,Tissamaharama,6.38,81.45,accommodation,00:00,23:59,0,0.85,mixed
+SL097,Jaffna Fort,Jaffna,9.665,80.0089,outdoor_cultural,07:00,18:00,90,0.78,outdoor
+SL098,Nallur Kandaswamy Temple,Jaffna,9.6667,80.0167,indoor_cultural,05:00,20:00,60,0.8,mixed
+SL099,Casuarina Beach,Jaffna,9.8167,80.0667,outdoor_nature,06:00,19:00,120,0.75,outdoor
+SL100,Jaffna Public Library,Jaffna,9.665,80.01,indoor_cultural,09:00,17:00,60,0.74,indoor
+SL101,Jetwing Jaffna,Jaffna,9.662,80.008,accommodation,00:00,23:59,0,0.79,indoor
+SL102,Kandy Muslim Hotel,Kandy,7.29,80.635,indoor_food,07:00,21:00,45,0.71,indoor
+SL103,Barefoot Garden Cafe,Colombo,6.904,79.856,indoor_food,09:00,19:00,60,0.8,mixed
+SL104,Nawaloka Cinema,Colombo,6.92,79.855,indoor_entertainment,10:00,23:00,150,0.68,indoor
+SL105,Rangiri Dambulla International Stadium,Dambulla,7.87,80.66,indoor_entertainment,09:00,22:00,180,0.65,outdoor
